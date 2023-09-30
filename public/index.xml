@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Language Learner</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Language Learner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Words List</title>
+      <link>http://example.org/posts/post/</link>
+      <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/post/</guid>
+      <description>Words List Abate: To become less in amount or intensity. Aberrant: Deviating from the usual course; abnormal. Abhor: To regard with extreme repugnance or aversion. Abjure: To renounce or reject solemnly; to give up under oath. Admonish: To caution or reprimand firmly. Affectation: Artificial behavior intended to impress or deceive. Aggrandize: To make greater, more powerful, or richer. Alacrity: Cheerful readiness or promptness in action. Ambivalent: Having mixed feelings or contradictory ideas about something or someone.</description>
+    </item>
+    
+  </channel>
+</rss>
